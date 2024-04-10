@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 11,
+    "Type": "Panels of sheet materials"
+  },
+  {
+    "Id": 12,
+    "Type": "Machine enclosure panels"
+  },
+  {
+    "Id": 13,
+    "Type": "Single masonry walls"
+  },
+  {
+    "Id": 16,
+    "Type": "Dоublе masonry walls"
+  },
+  {
+    "Id": 17,
+    "Type": "Stud partitions"
+  },
+  {
+    "Id": 18,
+    "Type": "Gypsum wall with_steel studs and 16 mm thick panels each side"
+  },
+  {
+    "Id": 19,
+    "Type": "Single glazed windows"
+  },
+  {
+    "Id": 20,
+    "Type": "Doubled glazed windows"
+  },
+  {
+    "Id": 21,
+    "Type": "Doors"
+  },
+  {
+    "Id": 22,
+    "Type": "Floors"
+  }
+]

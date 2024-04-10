@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "unit": "mm"
+  },
+  {
+    "id": 2,
+    "unit": "kg/m3"
+  },
+  {
+    "id": 3,
+    "unit": "GPa"
+  },
+  {
+    "id": 4,
+    "unit": "pieces"
+  },
+  {
+    "id": 5,
+    "unit": "kg/m2"
+  },
+  {
+    "id": 6,
+    "unit": "m"
+  },
+  {
+    "id": 7,
+    "unit": "$"
+  },
+  {
+    "id": 8,
+    "unit": "%"
+  },
+  {
+    "id": 9,
+    "unit": "dB"
+  },
+  {
+    "id": 10,
+    "unit": "Hz"
+  },
+  {
+    "id": 11,
+    "unit": "inch"
+  },
+  {
+    "id": 12,
+    "unit": "f[Hz]/[dB]"
+  },
+  {
+    "id": 13,
+    "unit": "EURO"
+  },
+  {
+    "id": 14,
+    "unit": "m/c"
+  },
+  {
+    "id": 18,
+    "unit": "Rw"
+  },
+  {
+    "id": 19,
+    "unit": "STC"
+  }
+]

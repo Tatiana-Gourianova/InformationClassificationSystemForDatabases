@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Unit": "Sandvich",
+    "id_type_one": 1,
+    "id_type_two": 1,
+    "id_construct": null
+  },
+  {
+    "Id": 7,
+    "Unit": "Single_layer",
+    "id_type_one": null,
+    "id_type_two": null,
+    "id_construct": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type_name": "Generic"
+  },
+  {
+    "id": 2,
+    "type_name": "Manufacturers"
+  },
+  {
+    "id": 3,
+    "type_name": "User-defined products"
+  }
+]

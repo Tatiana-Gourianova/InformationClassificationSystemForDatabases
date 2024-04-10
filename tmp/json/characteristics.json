@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "name": "Dencity",
+    "id_unit": 2
+  },
+  {
+    "id": 2,
+    "name": "Thickness",
+    "id_unit": 1
+  },
+  {
+    "id": 3,
+    "name": "quintity",
+    "id_unit": 4
+  },
+  {
+    "id": 4,
+    "name": "Stid thickness",
+    "id_unit": 1
+  },
+  {
+    "id": 5,
+    "name": "Stud spasing",
+    "id_unit": 1
+  },
+  {
+    "id": 6,
+    "name": "Total thickness",
+    "id_unit": 1
+  },
+  {
+    "id": 8,
+    "name": "Total mass",
+    "id_unit": 2
+  },
+  {
+    "id": 9,
+    "name": "fc",
+    "id_unit": null
+  },
+  {
+    "id": 10,
+    "name": "Eta_int",
+    "id_unit": null
+  },
+  {
+    "id": 11,
+    "name": "Sound insulation",
+    "id_unit": 9
+  },
+  {
+    "id": 12,
+    "name": "Max height",
+    "id_unit": 6
+  },
+  {
+    "id": 13,
+    "name": "Thermal conductivity",
+    "id_unit": null
+  },
+  {
+    "id": 14,
+    "name": "Fire resistance",
+    "id_unit": null
+  },
+  {
+    "id": 15,
+    "name": "Thickness of plaster Left",
+    "id_unit": 1
+  },
+  {
+    "id": 16,
+    "name": "Thickness of plaster Right",
+    "id_unit": 1
+  },
+  {
+    "id": 17,
+    "name": "Critical frequence",
+    "id_unit": 10
+  },
+  {
+    "id": 18,
+    "name": "Sound insulation, Rw",
+    "id_unit": 9
+  },
+  {
+    "id": 19,
+    "name": "Sound insulation, C",
+    "id_unit": 9
+  },
+  {
+    "id": 20,
+    "name": "Sound insulation, Ctr",
+    "id_unit": 9
+  },
+  {
+    "id": 21,
+    "name": "50",
+    "id_unit": 12
+  },
+  {
+    "id": 22,
+    "name": "63",
+    "id_unit": 12
+  },
+  {
+    "id": 23,
+    "name": "80",
+    "id_unit": 12
+  },
+  {
+    "id": 24,
+    "name": "100",
+    "id_unit": 12
+  },
+  {
+    "id": 25,
+    "name": "125",
+    "id_unit": 12
+  },
+  {
+    "id": 26,
+    "name": "160",
+    "id_unit": 12
+  },
+  {
+    "id": 27,
+    "name": "200",
+    "id_unit": 12
+  },
+  {
+    "id": 28,
+    "name": "250",
+    "id_unit": 12
+  },
+  {
+    "id": 29,
+    "name": "315",
+    "id_unit": 12
+  },
+  {
+    "id": 30,
+    "name": "400",
+    "id_unit": 12
+  },
+  {
+    "id": 31,
+    "name": "500",
+    "id_unit": 12
+  },
+  {
+    "id": 32,
+    "name": "630",
+    "id_unit": 12
+  },
+  {
+    "id": 33,
+    "name": "800",
+    "id_unit": 12
+  },
+  {
+    "id": 34,
+    "name": "1000",
+    "id_unit": 12
+  },
+  {
+    "id": 35,
+    "name": "1250",
+    "id_unit": 12
+  },
+  {
+    "id": 36,
+    "name": "1600",
+    "id_unit": 12
+  },
+  {
+    "id": 37,
+    "name": "2000",
+    "id_unit": 12
+  },
+  {
+    "id": 38,
+    "name": "2500",
+    "id_unit": 12
+  },
+  {
+    "id": 39,
+    "name": "3150",
+    "id_unit": 12
+  },
+  {
+    "id": 40,
+    "name": "4000",
+    "id_unit": 12
+  },
+  {
+    "id": 41,
+    "name": "5000",
+    "id_unit": 12
+  },
+  {
+    "id": 42,
+    "name": "8000",
+    "id_unit": 12
+  },
+  {
+    "id": 43,
+    "name": "Cost",
+    "id_unit": 13
+  },
+  {
+    "id": 44,
+    "name": "internal loss factor",
+    "id_unit": null
+  },
+  {
+    "id": 45,
+    "name": "longitudinal Velocity",
+    "id_unit": 14
+  },
+  {
+    "id": 46,
+    "name": "Total cost",
+    "id_unit": 7
+  },
+  {
+    "id": 47,
+    "name": "63,125,250,500,1000,2000,4000,8000",
+    "id_unit": 12
+  },
+  {
+    "id": 48,
+    "name": "Panel construction",
+    "id_unit": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type_title": "Board"
+  },
+  {
+    "id": 2,
+    "type_title": "Acoustic"
+  },
+  {
+    "id": 3,
+    "type_title": "Filler"
+  },
+  {
+    "id": 4,
+    "type_title": "Frame"
+  },
+  {
+    "id": 5,
+    "type_title": "Heavy wall"
+  }
+]

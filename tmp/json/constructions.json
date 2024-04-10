@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Heavy walls Plaster 1800 kg/m3"
+  },
+  {
+    "id": 2,
+    "title": "Heavy wall + lining 1 side"
+  },
+  {
+    "id": 3,
+    "title": "Heavy wall + lining 2 sides"
+  },
+  {
+    "id": 4,
+    "title": "Double heavy wall"
+  },
+  {
+    "id": 5,
+    "title": "Double heavy wall + lining 1 side"
+  },
+  {
+    "id": 6,
+    "title": "Double heavy wall + lining 2 side"
+  },
+  {
+    "id": 7,
+    "title": "Lightweight wall (Single frame)"
+  },
+  {
+    "id": 8,
+    "title": "Lightweight wall (Double frame)"
+  },
+  {
+    "id": 9,
+    "title": "Boards"
+  },
+  {
+    "id": 10,
+    "title": "Glass (Single)"
+  },
+  {
+    "id": 11,
+    "title": "Sandwich panel (Single row)"
+  },
+  {
+    "id": 12,
+    "title": "Acoustic"
+  },
+  {
+    "id": 14,
+    "title": "Sandwich panel (Mixed construction)"
+  },
+  {
+    "id": 15,
+    "title": "Glass (Double)"
+  },
+  {
+    "id": 16,
+    "title": "Glass (Triple)"
+  },
+  {
+    "id": 17,
+    "title": "Lightweight wall + lining 1 side"
+  },
+  {
+    "id": 18,
+    "title": "Lightweight wall + lining 1 side"
+  },
+  {
+    "id": 19,
+    "title": "CLT"
+  },
+  {
+    "id": 20,
+    "title": "Filler"
+  },
+  {
+    "id": 21,
+    "title": "Frame"
+  },
+  {
+    "id": 25,
+    "title": "Sandwich panel (Machine enclosure panels)"
+  }
+]

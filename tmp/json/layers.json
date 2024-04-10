@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Layer_title": "Lining"
+  },
+  {
+    "Id": 2,
+    "Layer_title": "Lining left"
+  },
+  {
+    "Id": 3,
+    "Layer_title": "Lining right"
+  },
+  {
+    "Id": 4,
+    "Layer_title": "Additional layer left"
+  },
+  {
+    "Id": 5,
+    "Layer_title": "Additional layer right"
+  },
+  {
+    "Id": 6,
+    "Layer_title": "Air gap"
+  }
+]
